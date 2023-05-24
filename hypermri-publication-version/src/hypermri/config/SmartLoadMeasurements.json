@@ -1,0 +1,37 @@
+{
+    "MGE": [
+        "<Bruker:MGE>",
+        "<User:umpireMGE>"
+    ],
+    "FLASH": [
+        "<Bruker:FLASH>"
+    ],
+    "CSI": [
+        "<Bruker:CSI>",
+        "<User:lucaCSI4>"
+    ],
+    "RARE": [
+        "<Bruker:RARE>"
+    ],
+    "NSPECT": [
+        "<Bruker:NSPECT>"
+    ],
+    "PRESS": [
+        "<Bruker:PRESS>"
+    ],
+    "CPMG": [
+        "<Bruker:CPMG>",
+        "<User:more_echoes_CPMG>"
+    ],
+    "Singlepulse": [
+        "<Bruker:SINGLEPULSE>"
+    ],
+    "BSSFP": [
+        "<Bruker:FISP>",
+        "<User:fisp_grad_1metab_CS>",
+        "<User:fisp_gr_1_met_CS_me>",
+        "<User:jakob_fisp_me>",
+        "<User:altPowRx_G_FISP>",
+        "<User:altPow_jgs_alt_FISP>"
+    ]
+}
