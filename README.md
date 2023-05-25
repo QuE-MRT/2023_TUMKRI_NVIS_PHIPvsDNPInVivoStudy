@@ -6,12 +6,12 @@ This code is not maintained, its use is purely to provide the current state of d
 ## Overview
 This code consists of two python modules that are used by four data analysis jupyter notebooks.
 ### Modules
-1. hypermri: This module is found in hypermri-publication-version and can be installed as described there. Its use
+1. hypermri: This module is found in hypermri-publication-version and can be installed as described below. Its use
 is for loading, analyzing and processing preclinical MRI and MRS data from a Bruker MRI operated by Paravision 7.
 2. MagriProc.py: This module is used for loading, analyzing and processing NMR data from a Spinsolve tabletop spectrometer 
 by Magritek.
 ### Analysis notebooks
-All these notebooks should be opened using jupyter lab version 7.ll
+All these notebooks should be opened using jupyter lab version 7.
 1. Example_T1_T2_analysis.ipynb
 
     This notebook shows exemplary how T1 and T2 values were analyzed for this study.
@@ -30,7 +30,7 @@ All these notebooks should be opened using jupyter lab version 7.ll
 
 
 # Useage
-1. Clone this repository, i.e. using Windows Powershell:
+1. Clone this repository, i.e. using Windows Powershell or Mac Terminal:
 ```bash
 $ git clone https://github.com/QuE-MRT/2023_TUMKRI_NVIS_PHIPvsDNPInVivoStudy
 ```
@@ -44,8 +44,8 @@ $ conda activate hypermri_env
 ```
 3. Change to the main folder and open jupyter lab (version>=3.5.3):
 ```bash
-$ cd ..
-$ jupyter lab
+(hypermri_env)$ cd ..
+(hypermri_env)$ jupyter lab
 ```
 4. Test data is available upon request and should be placed in the same directory as the notebooks.
 
@@ -57,4 +57,4 @@ This repository is licensed under Apache 2.0.
 
 However code from two external repositories (pyNMR by Benno Meier and brukerMRI by Joerg Döpfert) is integrated
 into some functions. 
-Therefore a folder with their respective Licenses is included here as well.
+Therefore a folder with their respective Licenses is included here as well and their code is cited within the packages.
