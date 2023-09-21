@@ -1,6 +1,5 @@
 ## Disclaimer
-This repository is a snapshot of processing code used for a publication, which will be linked here
-as soon as its released.
+This repository is a snapshot of processing code used for the publication "Parahydrogen-Polarized [1-13C]Pyruvate for Reliable and Fast Preclinical Metabolic Magnetic Resonance Imaging"(https://doi.org/10.1002/advs.202303441).
 This code is not maintained, its use is purely to provide the current state of data analysis for reproducibility.
 
 ## Overview
